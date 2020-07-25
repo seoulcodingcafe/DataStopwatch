@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:key="commandthemeconfiguration"
+        app:title="@string/theme_configuration" />
+    <SwitchPreference
+        app:key="mobile only"
+        app:title="@string/mobile_only"
+        app:defaultValue="false" />
+</PreferenceScreen>

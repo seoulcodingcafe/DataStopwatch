@@ -1,0 +1,1 @@
+Stopwatch application, but for data usage. It will help you to monitor and control your data usage in a time period. NO permissions, NO ads, NO trackers, Open Source.
